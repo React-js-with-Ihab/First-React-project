@@ -1,19 +1,36 @@
-HEAD
+# First React Project
 
-# React + Vite
+This is a training project developed using React.js as part of my frontend learning journey at JODAYN.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built under the guidance of @Ihab to practice core React concepts and improve hands-on development skills.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What I Learned
 
-## Expanding the ESLint configuration
+- Using helpful extensions in VS Code to support React development.
+- How to start a new React project and understand its main structure, including the `public`, `src`, and `node_modules` folders.
+- Creating and organizing functional components in React.
+- Applying conditional logic and expressions inside JSX effectively.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
-# First-React-project
+## Tech Stack
 
-A React.js practice project developed to enhance my frontend development skills as part of my training at JODAYN. This project demonstrates core React concepts including components, props, hooks, and state management. It is built under the guidance of Ihab as part of my continuous learning journey through the frontend roadmap.
-cd5bd3474ea64768612988bcc27b6762539da825
+- React.js
+- CSS Modules
+- Vite
+- ESLint
+- Prettier
+
+---
+
+## Purpose
+
+This repository serves as a practical exercise to apply theoretical knowledge into a working React app, and to demonstrate my progress in frontend development during my training period.
+
+---
+
+## Feedback
+
+Feel free to check the code and share your feedback.
